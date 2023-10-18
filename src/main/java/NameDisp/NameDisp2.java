@@ -4,6 +4,6 @@
 
 public class NameDisp2 {
     public static void main(String[] args) {
-        System.out.println("Aki" + " Tanimoto");
+        System.out.println("谷本" + " 亜樹");
     }
 }
